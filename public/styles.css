@@ -1,0 +1,17 @@
+/* Add your styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
